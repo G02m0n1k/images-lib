@@ -6,7 +6,7 @@
 "Menu" = "Меню"
 " Livestreams" = " Стримы"
 " Purchases" = " Покупки"
-" Log Out" = " Выйти"
+# " Log Out" = " Выйти"
 "Unmute" = "Звук вкл."
 "Mute" = "Звук выкл."
 "Edit profile" = "Редактировать"
