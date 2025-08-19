@@ -47,6 +47,11 @@
 "Week" = "Неделя"
 "Month" = "Месяц"
 "All time" = "Все время"
+"Player" = "Игрок"
+"Pixels painted" = "Закрасил"
+
+# LEADERBOARD
+"Leaderboard" = "Таблица лидеров"
 
 # ATTRIBUTES
 "Not enough droplets" = "Недостаточно капель"
@@ -58,6 +63,7 @@
 "Close " = "Закрыть "
 "Show profile" = "Мой профиль"
 "Info" = "Информация"
+"Explore" = "Поиск"
 "Zoom in" = "Приблизить"
 "Zoom out" = "Отдалить"
 "Livestreams" = "Стримы"
@@ -65,4 +71,3 @@
 "My location" = "Найти меня"
 "No internet access or the servers are offline. Try again later." = "Нет доступа к интернету или сервера отключены. Попробуйте позже."
 "You do not have enough droplets to buy this item." = "У вас недостаточно капель для покупки."
-"Leaderboard" = "Таблица лидеров"
