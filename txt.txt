@@ -11,9 +11,11 @@
 "Recharge paint charges" = "Пополните запас краски"
 "Profile" = "Профиль"
 "Profile picture" = "Аватарка"
-"Add a new 16x16 profile picture" = "Добавить аватарку 16x16 пикселей"
+"Add a new 16x16 profile picture" = "Добавьте аватарку 16x16 пикселей"
 "Flags" = "Флаги"
 "Display your country’s flag next to your username. Plus, when painting in regions where you own the corresponding flag, you recover 10% of the charges spent." = "Если рисуете в стране, соответствующей купленному флагу, то вам вернется 10% от нарисованной краски."
+"Equipped" = "Взято"
+"Does not need to be equiped to provide the bonus" = "Бонус уже применен"
 "MAX" = "МАКС"
 "Show more" = "Больше"
 #
