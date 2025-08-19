@@ -19,3 +19,4 @@
 "MAX" = "МАКС"
 "Show more" = "Больше"
 #
+"Not enough droplets" = "Недостаточно капель"
