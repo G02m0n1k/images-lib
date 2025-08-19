@@ -59,10 +59,20 @@
 
 # LEADERBOARD
 "Leaderboard" = "Таблица лидеров"
+"Regions" = "Регионы"
+"Region" = "Регион"
+"Countries" = "Страны"
+"Country" = "Страна"
+"Players" = "Игроки"
+"Alliances" = "Альянсы"
+"Pixels " = "Пикселей "
+"painted " = "нарисовано "
+"Pixels painted inside the region" = "Внутри области"
+"Visit" = "Навестить"
 
 # FIND PANEL
 "Pixel:/#$/" = "Пиксель:/#$/"
-"Painted by:" = "Закрашен:"
+"Painted by:" = "Закрасил:"
 " Paint" = " Закрасить"
 " Favorite" = " Избранное"
 " Share" = " Поделиться"
