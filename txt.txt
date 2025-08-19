@@ -206,6 +206,7 @@
 "No more charges" = "Краски больше нет"
 "/#$/You don't have charges to paint./#$/" = "/#$/У вас нету красок./#$/"
 "/#$/ Next charge in /#$/" = "/#$/ Попробуйте через /#$/"
+"Refresh your page to get the latest update" = "Обновите страницу для обновления Wplace"
 
 # OTHER
 " Offline" = " Оффлайн"
