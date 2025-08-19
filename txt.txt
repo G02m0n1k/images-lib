@@ -3,6 +3,16 @@
 "Pixels painted: " = "Окрашено пикселей: "
 "Level/#$/" = "Уровень/#$/"
 "/#$/max. charge/level" = "/#$/макс. крас./ур."
+"Menu" = "Меню"
+" Livestreams" = " Стримы"
+" Purchases" = " Покупки"
+" Log Out" = " Выйти"
+"Unmute" = "Звук вкл."
+"Mute" = "Звук выкл."
+"Edit profile" = "Редактировать"
+"Name" = "Имя"
+"Discord Username" = "Ник в Discord"
+
 # STORE
 "Store" = "Магазин"
 "Items" = "Предметы"
@@ -20,8 +30,10 @@
 "Does not need to be equiped to provide the bonus" = "Бонус уже применен"
 "MAX" = "МАКС"
 "Show more" = "Больше"
+
 # ATTRIBUTES
 "Not enough droplets" = "Недостаточно капель"
+
 # OTHER
 "Droplets" = "Капли"
 "Paint " = "Рисовать "
