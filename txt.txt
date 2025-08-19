@@ -26,6 +26,7 @@
 "Eraser " = "Ластик "
 "Upload " = "Загрузить "
 "Preferably a 16x16 image" = "Желательно до 16x16"
+" Install App" = " Моб. приложение"
 
 # STORE
 "Store" = "Магазин"
