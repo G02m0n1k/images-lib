@@ -214,6 +214,7 @@
 "Zoom in" = "Приблизить"
 "Zoom out" = "Отдалить"
 "Livestreams" = "Стримы"
+"Previous location" = "Прошлое место"
 "Toggle art opacity" = "Прозрачность рисунков"
 "My location" = "Найти меня"
 "No internet access or the servers are offline. Try again later." = "Нет доступа к интернету или сервера отключены. Попробуйте позже."
