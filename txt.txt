@@ -44,3 +44,5 @@
 "Livestreams" = "Стримы"
 "Toggle art opacity" = "Прозрачность рисунков"
 "My location" = "Найти меня"
+"No internet access or the servers are offline. Try again later." = "Нет доступа к интернету или сервера отключены. Попробуйте позже."
+"You do not have enough droplets to buy this item." = "У вас недостаточно капель для покупки."
