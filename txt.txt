@@ -54,12 +54,26 @@
 # LEADERBOARD
 "Leaderboard" = "Таблица лидеров"
 
+# FIND PANEL
+"Pixel:/#$/" = "Пиксель:/#$/"
+"Painted by:" = "Закрашен:"
+" Paint" = " Закрасить"
+" Favorite" = " Избранное"
+" Share" = " Поделиться"
+" Share place" = " Поделиться"
+" Image" = " Изображение"
+" Copy" = " Копировать"
+"Copy" = "Копировать"
+"Copied" = "Скопировано"
+" Download" = " Скачать"
+
 # ATTRIBUTES
 "Not enough droplets" = "Недостаточно капель"
 "Leaderboard is temporarily disabled" = "Таблица лидеров временно недоступна"
 "Can't reach the server. Maybe you are without internet connection or the server is down. Try again later" = "Не удается подключиться к серверу. Возможно, у вас нету интернета или сервер выключен. Попробуйте позже."
 "Location favorited" = "Место в Избранных"
 "Location unfavorited" = "Место убрано из Избранных"
+"Image copied to clipboard" = "Изображение скопировано в буфер обмена"
 
 # OTHER
 " Offline" = " Оффлайн"
