@@ -41,6 +41,7 @@
 
 # ALLIANCE
 "Alliance" = ""
+"Members: " = "Участников: "
 
 # ATTRIBUTES
 "Not enough droplets" = "Недостаточно капель"
