@@ -43,6 +43,7 @@
 "Not enough droplets" = "Недостаточно капель"
 
 # OTHER
+" Offline" = " Оффлайн"
 "Droplets" = "Капли"
 "Paint " = "Закрасить "
 "Close " = "Закрыть "
