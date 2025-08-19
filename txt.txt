@@ -110,6 +110,7 @@
 "Copy" = "Копировать"
 "Copied" = "Скопировано"
 " Download" = " Скачать"
+"Not painted" = "Ничего нету"
 
 # ATTRIBUTES
 "Not enough droplets" = "Недостаточно капель"
