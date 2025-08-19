@@ -202,6 +202,9 @@
 "Location favorited" = "Место в Избранных"
 "Location unfavorited" = "Место убрано из Избранных"
 "Image copied to clipboard" = "Изображение скопировано в буфер обмена"
+"No more charges" = "Краски больше нет"
+"/#$/You don't have charges to paint./#$/" = "/#$/У вас нету красок./#$/"
+"/#$/ Next charge in /#$/" = "/#$/ Попробуйте через /#$/"
 
 # OTHER
 " Offline" = " Оффлайн"
