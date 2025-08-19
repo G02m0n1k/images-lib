@@ -5,7 +5,7 @@
 # STORE
 "Store" = "Магазин"
 "Items" = "Предметы"
-"Get more charges" = "Прокачайтесь :D"
+"Get more charges" = "Прокачайте свои навыки рисования"
 "/#$/Max. Charges" = "/#$/Макс. зарядов"
 "Increase your maximum paint charges capacity" = "Увеличьте максимальный запас краски"
 "/#$/Paint Charges" = "/#$/Краски"
