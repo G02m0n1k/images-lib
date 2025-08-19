@@ -39,6 +39,9 @@
 "MAX" = "МАКС"
 "Show more" = "Больше"
 
+# ALLIANCE
+"Alliance" = ""
+
 # ATTRIBUTES
 "Not enough droplets" = "Недостаточно капель"
 
