@@ -49,6 +49,7 @@
 "All time" = "Все время"
 "Player" = "Игрок"
 "Pixels painted" = "Закрасил"
+"Last pixel" = "Послед. пиксель"
 
 # LEADERBOARD
 "Leaderboard" = "Таблица лидеров"
