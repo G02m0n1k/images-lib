@@ -40,7 +40,7 @@
 "Show more" = "Больше"
 
 # ALLIANCE
-"Alliance" = ""
+"Alliance" = "Альянс"
 "Members: " = "Участников: "
 
 # ATTRIBUTES
