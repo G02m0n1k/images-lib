@@ -71,3 +71,4 @@
 "My location" = "Найти меня"
 "No internet access or the servers are offline. Try again later." = "Нет доступа к интернету или сервера отключены. Попробуйте позже."
 "You do not have enough droplets to buy this item." = "У вас недостаточно капель для покупки."
+" Zoom in to see the pixels" = " Увелич., чтобы увидеть пиксели"
