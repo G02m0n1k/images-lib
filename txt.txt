@@ -44,7 +44,7 @@
 
 # OTHER
 "Droplets" = "Капли"
-"Paint " = "Рисовать "
+"Paint " = "Закрасить "
 "Close " = "Закрыть "
 "Show profile" = "Мой профиль"
 "Info" = "Информация"
