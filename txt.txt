@@ -59,14 +59,14 @@
 
 # LEADERBOARD
 "Leaderboard" = "Таблица лидеров"
-"Regions" = "Регионы"
+" Regions" = " Регионы"
 "Region" = "Регион"
-"Countries" = "Страны"
+" Countries" = " Страны"
 "Country" = "Страна"
-"Players" = "Игроки"
-"Alliances" = "Альянсы"
+" Players" = " Игроки"
+" Alliances" = " Альянсы"
 "Pixels " = "Пикселей "
-"painted " = "нарисовано "
+"/#$/painted /#$/" = "нарисовано "
 "Pixels painted inside the region" = "Внутри области"
 "Visit" = "Навестить"
 
