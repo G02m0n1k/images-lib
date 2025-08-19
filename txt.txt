@@ -1,6 +1,7 @@
 # test
 "Droplets" = "Капли"
 "Paint " = "Рисовать "
+"Close " = "Закрыть "
 # STORE
 "Store" = "Магазин"
 "Items" = "Предметы"
