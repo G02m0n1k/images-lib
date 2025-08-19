@@ -57,6 +57,7 @@
 # ATTRIBUTES
 "Not enough droplets" = "Недостаточно капель"
 "Leaderboard is temporarily disabled" = "Таблица лидеров временно недоступна"
+"Can't reach the server. Maybe you are without internet connection or the server is down. Try again later" = "Не удается подключиться к серверу. Возможно, у вас нету интернета или сервер выключен. Попробуйте позже."
 
 # OTHER
 " Offline" = " Оффлайн"
