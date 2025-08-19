@@ -98,6 +98,11 @@
 "Terms" = "Условия (англ.)"
 "Privacy" = "Конфиденциальность (англ.)"
 
+# DROPLETS (DONATE)
+"You gain 1 droplet per pixel painted and 500 droplets per level" = "Вы получаете 1 каплю за каждый покрашенный пиксель и 500 капель за уровень."
+"/#$/bonus" = "/#$/бонусом"
+"/#$/Droplets" = "/#$/Капель"
+
 # FIND PANEL
 "Pixel:/#$/" = "Пиксель:/#$/"
 "Painted by:" = "Закрасил:"
