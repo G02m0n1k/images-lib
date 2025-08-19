@@ -12,6 +12,11 @@
 "Edit profile" = "Редактировать"
 "Name" = "Имя"
 "Discord Username" = "Ник в Discord"
+" Show last painted pixel on alliance" = " Показывать последний пиксель Альянсу"
+"Add profile picture" = "Добавить аватарку"
+"Delete Account" = "Удалить аккаунт"
+"Close" = "Закрыть"
+"Save" = "Сохранить"
 
 # STORE
 "Store" = "Магазин"
