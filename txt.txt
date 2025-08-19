@@ -109,7 +109,7 @@
 " to paint," = " чтобы рисовать"
 "Paint pixel " = "Нарисовано "
 "Color Picker " = "Пипетка "
-"Move/#$/" = "Двиг./#$/"
+# "Move/#$/" = "Двиг./#$/"
 "Unlock" = "Разблокировать"
 "Permanently unlock the color" = "Разблокировать новый цвет"
 
