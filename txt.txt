@@ -16,7 +16,10 @@
 "Add profile picture" = "Добавить аватарку"
 "Delete Account" = "Удалить аккаунт"
 "Close" = "Закрыть"
+"Cancel" = "Отмена"
 "Save" = "Сохранить"
+"Are you absolutely sure?" = "Вы уверены в этом?"
+"This will permanently delete your account and all associated data. This action cannot be undone." = "Это приведет к безвозвратному удалению вашего аккаунта и всех связанных с ним данных."
 
 # STORE
 "Store" = "Магазин"
