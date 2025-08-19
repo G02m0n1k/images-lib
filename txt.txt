@@ -1,2 +1,9 @@
 # test
+"Droplets" = "Капли"
 "Paint " = "Рисовать "
+# STORE
+"Store" = "Магазин"
+"Items" = "Предметы"
+"Get more charges" = "Прокачайтесь :D"
+"MAX" = "МАКС"
+#
